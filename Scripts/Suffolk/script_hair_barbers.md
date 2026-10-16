@@ -2,14 +2,17 @@
 
 Use with the **Hair & barbers** tab. Fill in the [brackets] from the lead's row.
 
+**Goal of the call:** the site is **already built**. Book a **10-minute Google Meet** to show it to them. Don't pitch the price on this call unless they ask.
+
 **Best time to call:** Weekdays 10am–12pm or early afternoon. Avoid Saturdays and late-opening evenings. If they're mid-cut, ask when to ring back.
 **Tip:** Barbers often work off Instagram and Booksy. Show them the site makes those work harder, rather than replacing them.
 
-**Before dialling (30 seconds)**
+**Before dialling**
 1. Google the exact name + town. If they have a website, mark Checked = N and skip them.
 2. Check the number isn't on TPS (tpsonline.org.uk).
 3. Note their **rating**, **reviews**, and **website status** (none / Facebook-Instagram-booking page only / spam link).
 4. Skim 2 reviews for something specific: people usually mention the cuts, the atmosphere, the price.
+5. Have their **preview link** open, and your calendar open, ready to book.
 
 ---
 
@@ -25,17 +28,27 @@ Use with the **Hair & barbers** tab. Fill in the [brackets] from the lead's row.
 ## 3. Problem
 > "So when people search something like 'barber in Haverhill' or 'hairdresser near me', they can't see your prices, photos of your cuts, and how to book, and a lot of them just tap on the next one that has a proper site."
 
-## 4. Offer
-> "I build simple, proper websites for local businesses like yours: your price list, a gallery of your cuts, a "Book now" button (it can link to your Booksy or Fresha), opening hours and a map. It's linked to your Google listing and looks great on a phone. I'll make you a free preview, no obligation, so you can see exactly what yours would look like."
+## 4. It's already built
+> "So I've actually gone ahead and built you one, as an example of what yours could look like: your price list, a gallery of your cuts, a "Book now" button (it can link to your Booksy or Fresha), opening hours and a map. It's not live or on Google, it's just a private preview."
 
-## 5. The ask
-> "Can I put that together and send it to you on WhatsApp by [day, within 48 hours]? If you don't like it, no worries at all."
+## 5. The ask: a 10-minute Google Meet
+> "Rather than just sending a link, I'd love to show it to you properly and get your thoughts. It only takes about 10 minutes on a quick Google Meet. Would [day] at [time] or [day] at [time] be better for you?"
+
+Always offer **two specific times** in their quiet hours (weekdays 10am–12pm or early afternoon), not "when are you free?".
 
 **If yes:**
-1. "What's your name, and is this the best number for WhatsApp?"
-2. "Can you send me your price list, whether you take walk-ins, and any photos of your work? Phone photos are fine."
-3. "I'll send it by [day] and give you a quick ring after you've had a look."
-4. Outcome = **Interested - send preview**. Build it, deploy it, then do the follow-up call below.
+1. "Perfect. What's your name, and what's the best email or WhatsApp to send the link to?"
+2. "Is there anything you'd definitely want on it? I'll make sure it's in there before we chat." (e.g. your price list, whether you take walk-ins, and any photos of your work)
+3. "Great, I'll send the invite now. It's just a link, you tap it on your phone or laptop and that's it."
+4. Send the invite straight away (see **Booking the Meet** below). Outcome = **Meet booked**, with the date and time in Notes.
+
+**If they don't do video calls:**
+> "No problem. I can pop in and show you on my phone, or I can WhatsApp it now and talk you through it while we're on the phone. What's easiest?"
+→ Do whichever they pick. A demo in person or over the phone still counts.
+
+**If "just send me the link":**
+> "I can, but honestly it lands better when I show you what it does. It's only 10 minutes, and you can ask me anything. How about [day] at [time]?"
+If they still say just send it: send it, and book a call for the next day to get their thoughts.
 
 ---
 
@@ -58,7 +71,7 @@ Agree first, and never argue.
 
 > "Can I ask, where do most of your new customers come from at the minute?" (let them answer) "Right, and when someone gets recommended you, the first thing they do now is Google you. A proper page makes you look like the safe pick."
 
-> "That's why I'd rather show you than tell you. It's free, and if you look at it and think 'nah', no harm done."
+> "That's exactly why I built it first. It's 10 minutes to have a look, and if you think 'nah, we're fine', no harm done."
 
 If they're still firm: "No worries. Can I check back in a few months?" → Not interested, and put the date in Notes.
 
@@ -76,8 +89,11 @@ If they're still firm: "No worries. Can I check back in a few months?" → Not i
 **"Who are you? What experience have you got?"**
 > "We're local. I've been lead developer at a few financial market-data companies, including my own, FreeFlow. A site like this is a lot simpler, and you see the preview before paying anything."
 
-**"Send me something."**
-> "That's exactly what the preview is. What's your WhatsApp? I'll send it by [day]."
+**"I'm too busy for a meeting."**
+> "Totally get it, it's literally 10 minutes, on your phone, whenever's quietest for you. Even first thing or after you close is fine."
+
+**"Why have you built it already? What's the catch?"**
+> "No catch. It's the easiest way to show what I do. If you don't want it, I just delete it and it's never live."
 
 **"What if I want to cancel?"**
 > "12 months minimum, then month to month with 30 days' notice. The domain's in your name, and if you leave I hand it all over."
@@ -87,16 +103,26 @@ If they're still firm: "No worries. Can I check back in a few months?" → Not i
 
 ---
 
-## Preview follow-up call (after sending the link)
-> "Hi [name], it's [your name] from Kose Web. I've just sent your preview on WhatsApp. Have you got a sec to open it while we're on the phone?"
-1. Let them scroll, and point out the bits that matter to them.
-2. "The photos are placeholders. I'd swap in yours."
-3. Ask "What do you think?", then **stop talking**.
-4. If yes: give the price, get their email for the agreement and invoice. Outcome = **Won**.
+## Booking the Meet (straight after the call)
+1. In **Google Calendar**, create the event: "[Business] website preview, Kose Web" for 15 minutes, and click **Add Google Meet video conferencing**.
+2. Add their email as a guest, or copy the Meet link and send it on WhatsApp:
+   > Hi [name], it's [your name] from Kose Web, great speaking just now. Here's the link for [day] at [time]: [Meet link]. Just tap it on your phone or laptop when it's time. Speak then!
+3. On the morning of the Meet, send a reminder: "Hi [name], just a reminder about our quick 10 min at [time] today, same link 👍"
+4. Log it: Outcome = **Meet booked**, with the date and time in Notes.
+
+## The 10-minute Meet (how to run it)
+1. **Minute 0–1: thank them and set it up.** "Thanks for jumping on. I'll share my screen and show you what I've built. Shout if anything's not right."
+2. **Minute 1–6: show the site on a phone view first, then desktop.** Walk through the parts that matter most to them (menu / prices / gallery / book or call button / hours / map). Mention: "The photos are placeholders, I'd swap in yours."
+3. **Minute 6–7: ask and stop talking.** "What do you think?" Let them talk, and note anything they'd change.
+4. **Minute 7–9: price** (see Prices above), plus the founding offer if they hesitate.
+5. **Minute 9–10: close.**
+   > "If you're happy, I'll send over a short agreement and the invoice by email today, and I'll have it live, with your photos and any changes, within the week."
+   → Get their email. Outcome = **Won**.
+   - **"Let me think about it":** "Of course. The preview stays up, so have a look. Can I give you a ring [day] to hear what you think?" → book it.
 
 ## Rules
 - **No answer:** no voicemail, no cold link. Try again at another good time. After 3 tries, Outcome = No answer.
-- Only send a link once they've agreed to see it.
+- Only send the preview link once they've agreed to see it (ideally on the Meet).
 - Log every call: Called date, Outcome, Notes (owner's name and the best time to call).
 - Be honest: never say you're "from Google" or imply they have to do this.
 
